@@ -2,7 +2,7 @@
 
 Helping tech job-seekers compare open positions across the world.
 
-https://actualizeit.github.io/Project1/
+Link to deployed site: https://actualizeit.github.io/Project1/
 
 ## Getting Started
 
